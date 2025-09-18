@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Prof. Dr. Haridas Biswas",
+    "speciality": "General physician",
+    "degree": "MBBS",
+    "experience": "4 Years",
+    "about": "Prof. Dr. Haridas Biswas is a highly experienced Medicine, Cardiology, Liver, Rheumatic Fever, and Chest Diseases specialist in Khulna.",
+    "fees": 1000,
+    "address": { "line1": "KDA Plot & Holding No: E X-2 (East Side of KMC)", "line2": "Choto Boyra, Khulna" },
+    "imageFile": "doc1.png"
+  },
+  {
+    "name": "Prof. Dr. Suha Jesmin",
+    "speciality": "Gynecologist",
+    "degree": "MBBS (DMC), FCPS (OBGYN)",
+    "experience": "3 Years",
+    "about": "Prof. Dr. Suha Jesmin is a Gynecologist in Dhaka. Her qualification is MBBS (DMC), FCPS (OBGYN). She is a Professor, , Gynecology & Obstetrics at Anwer Khan Modern Medical College & Hospital.",
+    "fees": 500,
+    "address": { "line1": "House # 17, Road # 08", "line2": "Dhanmondi R/A, Dhaka – 1205" },
+    "imageFile": "doc2.png"
+  },
+  {
+    "name": "Dr. Farzana Rahman Shathi",
+    "speciality": "Dermatologist",
+    "degree": "MBBS, BCS (Health), FCPS (Skin & VD), MCPS (Skin & Sex), DDV",
+    "experience": "5 Years",
+    "about": "Dr. Farzana Rahman Shathi is a highly qualified Skin, Sexual Diseases, Leprosy, Allergy Specialist, and Aesthetic & Dermatosurgeon in Dhaka.",
+    "fees": 1000,
+    "address": { "line1": "Gemcon Business Tower, 255 New Circular Road", "line2": "Malibagh, Dhaka" },
+    "imageFile": "doc3.png"
+  },
+  {
+    "name": "Prof. Dr. Syed Khairul Amin",
+    "speciality": "Pediatricians",
+    "degree": "MBBS",
+    "experience": "10 Years",
+    "about": "Prof. Dr. Syed Khairul Amin is a Pediatric Hematologist in Dhaka. His qualification is MBBS, DCH (Glasgow), MRCP (UK), FRCP (Edin), FRCP (Glasgow).",
+    "fees": 1200,
+    "address": { "line1": "House # 17, Road # 08, Dhanmondi R/A", "line2": "Dhaka – 1205" },
+    "imageFile": "doc4.png"
+  },
+  {
+    "name": "Prof. Dr. Subash Kanti Dey",
+    "speciality": "Neurologist",
+    "degree": "MBBS, MD (Neurology)",
+    "experience": "14 Years",
+    "about": "Prof. Dr. Subash Kanti Dey is a Neurologist in Dhaka. His qualification is MBBS, MD (Neurology). He is a Professor (Neurology) at Bangabandhu Sheikh Mujib Medical University Hospital.",
+    "fees": 1000,
+    "address": { "line1": "Gemcon Business Tower, 255 New Circular Road", "line2": "Malibagh, Dhaka" },
+    "imageFile": "doc5.png"
+  },
+  {
+    "name": "Dr. Mohammad Selim Shahi",
+    "speciality": "Neurologist",
+    "degree": "MBBS",
+    "experience": "4 Years",
+    "about": "Dr. Mohammad Selim Shahi is a Neurologist in Dhaka. His qualification is MBBS, MD (Neurology). He is a Associate Professors of Neurology at National Institute of Neurosciences & Hospital.",
+    "fees": 50,
+    "address": { "line1": "House # 02, Road # 06", "line2": "Block # A, Mirpur-10, Dhaka" },
+    "imageFile": "doc6.png"
+  },
+  {
+    "name": "Prof. Dr. ABM Abdullah",
+    "speciality": "General physician",
+    "degree": "MBBS",
+    "experience": "17 Years",
+    "about": "Professor Dr. ABM Abdullah is a renowned medicine specialist in Bangladesh, with expertise in the treatment of medicine, diabetes, hypertension, thyroid disorders, liver diseases, gastric ulcers, heart diseases, infectious diseases, and various other chronic and complex conditions.",
+    "fees": 50,
+    "address": { "line1": "House # 02, Road # 05, Green Road", "line2": "Dhanmondi, Dhaka" },
+    "imageFile": "doc7.png"
+  },
+  {
+    "name": "Dr. Jasmine Sultana",
+    "speciality": "Gynecologist",
+    "degree": "MBBS",
+    "experience": "7 Years",
+    "about": "Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.",
+    "fees": 1500,
+    "address": { "line1": "2/6 Begum Rokeya Avenue", "line2": "Pallabi, Mirpur 11.5, Dhaka" },
+    "imageFile": "doc8.png"
+  },
+  {
+    "name": "Dr. Shakti Chowdhury",
+    "speciality": "Dermatologist",
+    "degree": "MBBS",
+    "experience": "5 Years",
+    "about": "Dr. Shakti Chowdhury is a Dermatologist in Chittagong. Her qualification is MBBS (CMC), DDV (BSMMU). She is a Consultant, Dermatology at Surecell Medical, Chattogram.",
+    "fees": 100,
+    "address": { "line1": "Al-Noor Badrun Centre (3rd Floor)", "line2": "OR Nizam Road, Chattogram" },
+    "imageFile": "doc9.png"
+  },
+  {
+    "name": "Prof. Dr. Azmeri Sultana",
+    "speciality": "Pediatricians",
+    "degree": "MBBS",
+    "experience": "7 Years",
+    "about": "Prof. Dr. Azmeri Sultana is a Child Specialist in Dhaka. Her qualification is MBBS, DCH, MCPS, FCPS (CHILD), FRCP (GLASGOW)",
+    "fees": 40,
+    "address": { "line1": "House # B65, Chowdhury Para", "line2": "Malibagh, Dhaka" },
+    "imageFile": "doc10.png"
+  },
+  {
+    "name": "Prof. Dr. Md. Rafiqul Islam",
+    "speciality": "Neurologist",
+    "degree": "MBBS",
+    "experience": "14 Years",
+    "about": "Prof. Dr. Md. Rafiqul Islam is a renowned neurology and medicine specialist in Dhaka...",
+    "fees": 1500,
+    "address": { "line1": "Laksam Road", "line2": "Cumilla" },
+    "imageFile": "doc11.png"
+  },
+  {
+    "name": "Dr. Md. Ashrafuzzaman Khan",
+    "speciality": "Neurologist",
+    "degree": "MBBS,BCS (Health), MD (Neurology)",
+    "experience": "8 Years",
+    "about": "Dr. Md. Ashrafuzzaman Khan is a distinguished neurology specialist in Dhaka...",
+    "fees": 1000,
+    "address": { "line1": "Road # 2, Block # B", "line2": "Mirpur 10, Dhaka" },
+    "imageFile": "doc12.png"
+  },
+  {
+    "name": "Dr. Hasna Fahmima Haque",
+    "speciality": "General physician",
+    "degree": "MBBS",
+    "experience": "4 Years",
+    "about": "Dr. Hasna Fahmima Haque is a dedicated Internal Medicine specialist in Dhaka...",
+    "fees": 0,
+    "address": { "line1": "122, Kazi Nazrul Islam Avenue", "line2": "Shahbag, Dhaka" },
+    "imageFile": "doc13.png"
+  },
+  {
+    "name": "Asst. Prof. Dr. Sharmin Akter Liza",
+    "speciality": "Gynecologist",
+    "degree": "MBBS",
+    "experience": "8 Years",
+    "about": "Asst. Prof. Dr. Sharmin Akter Liza is one of the best gynecologist and infertility specialist in Dhaka...",
+    "fees": 1600,
+    "address": { "line1": "London Market, Sanarpar", "line2": "Demra, Dhaka - 1361" },
+    "imageFile": "doc14.png"
+  },
+  {
+    "name": "Dr. Md. Nazmus Saleheen (Pavel)",
+    "speciality": "Dermatologist",
+    "degree": "MBBS",
+    "experience": "6 Years",
+    "about": "Dr. Pavel specializes in treating skin diseases, acne, eczema, psoriasis, fungal infections...",
+    "fees": 1200,
+    "address": { "line1": "Arunaloy, 6 Momin Road", "line2": "Anderkilla, Chattogram" },
+    "imageFile": "doc15.png"
+  }
+]

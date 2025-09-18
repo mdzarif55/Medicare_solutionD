@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Complete Blood Count (CBC)",
+    "description": "Measures red cells, white cells, hemoglobin and platelets",
+    "fees": 600,
+    "imageFile": "cbc.png"
+  },
+  {
+    "name": "Blood Sugar (FBS)",
+    "description": "Fasting blood sugar test for diabetes screening",
+    "fees": 400,
+    "imageFile": "fbs.png"
+  },
+  {
+    "name": "Blood Sugar (RBS)",
+    "description": "Random blood sugar test",
+    "fees": 350,
+    "imageFile": "rbs.png"
+  },
+  {
+    "name": "HbA1c (Glycated Hemoglobin)",
+    "description": "Average blood sugar control over 3 months",
+    "fees": 800,
+    "imageFile": "hba1c.png"
+  },
+  {
+    "name": "Lipid Profile",
+    "description": "Cholesterol, triglyceride, HDL & LDL test",
+    "fees": 1500,
+    "imageFile": "lipid_profile.png"
+  },
+  {
+    "name": "Liver Function Test (LFT)",
+    "description": "Checks liver enzymes and bilirubin",
+    "fees": 1600,
+    "imageFile": "lft.png"
+  },
+  {
+    "name": "Renal Function Test (RFT)",
+    "description": "Kidney function tests: urea, creatinine, electrolytes",
+    "fees": 1400,
+    "imageFile": "rft.png"
+  },
+  {
+    "name": "Urine R/E",
+    "description": "Routine & microscopy urine examination",
+    "fees": 300,
+    "imageFile": "urine_re.png"
+  },
+  {
+    "name": "Urine C/S",
+    "description": "Urine culture & sensitivity",
+    "fees": 700,
+    "imageFile": "urine_cs.png"
+  },
+  {
+    "name": "Stool R/E",
+    "description": "Routine stool test for infection & digestion",
+    "fees": 350,
+    "imageFile": "stool_re.png"
+  },
+  {
+    "name": "Serum Creatinine",
+    "description": "Kidney health marker",
+    "fees": 500,
+    "imageFile": "serum_creatinine.png"
+  },
+  {
+    "name": "Serum Uric Acid",
+    "description": "Test for gout and uric acid levels",
+    "fees": 500,
+    "imageFile": "serum_uric_acid.png"
+  },
+  {
+    "name": "Electrolyte Panel",
+    "description": "Sodium, potassium, chloride balance",
+    "fees": 1000,
+    "imageFile": "electrolytes.png"
+  },
+  {
+    "name": "Thyroid Profile (TSH, T3, T4)",
+    "description": "Thyroid hormone evaluation",
+    "fees": 2000,
+    "imageFile": "thyroid.png"
+  },
+  {
+    "name": "X-Ray Chest (PA View)",
+    "description": "X-ray imaging of chest",
+    "fees": 1200,
+    "imageFile": "xray_chest.png"
+  },
+  {
+    "name": "ECG",
+    "description": "Electrocardiogram for heart rhythm",
+    "fees": 500,
+    "imageFile": "ecg.png"
+  },
+  {
+    "name": "Ultrasound (Whole Abdomen)",
+    "description": "Ultrasonography of abdomen",
+    "fees": 2500,
+    "imageFile": "ultrasound.png"
+  },
+  {
+    "name": "Hepatitis B Surface Antigen (HBsAg)",
+    "description": "Hepatitis B screening test",
+    "fees": 700,
+    "imageFile": "hbsag.png"
+  },
+  {
+    "name": "Dengue NS1 Antigen",
+    "description": "Early detection of dengue virus",
+    "fees": 1000,
+    "imageFile": "dengue_ns1.png"
+  },
+  {
+    "name": "COVID-19 RT-PCR",
+    "description": "RT-PCR test for coronavirus detection",
+    "fees": 3000,
+    "imageFile": "covid_rtpcr.png"
+  }
+]
