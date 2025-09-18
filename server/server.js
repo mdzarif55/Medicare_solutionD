@@ -27,7 +27,7 @@ await connectDB()
 await connectCloudinary()
 
 //Allow Multiple origins
-const allowedOrigins = ['http://localhost:5173'];
+const allowedOrigins = ["https://medicare-solution-backend.vercel.app/"];
 
 app.post('/stripe', express.raw({type: 'applicatio/json'}),stripeWebhooks)
 app.use("/api/appointment/webhook", express.raw({ type: "application/json" }));
